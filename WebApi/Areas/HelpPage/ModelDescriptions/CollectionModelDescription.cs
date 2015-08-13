@@ -1,4 +1,4 @@
-namespace WebApi.Areas.HelpPage.ModelDescriptions
+namespace Lovesha.WebApi.Areas.HelpPage.ModelDescriptions
 {
     public class CollectionModelDescription : ModelDescription
     {

@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace WebApi.Areas.HelpPage.ModelDescriptions
+namespace Lovesha.WebApi.Areas.HelpPage.ModelDescriptions
 {
     public interface IModelDocumentationProvider
     {

@@ -1,9 +1,9 @@
 ﻿using System.Web.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using WebApi;
-using WebApi.Controllers;
+using Lovesha.WebApi;
+using Lovesha.WebApi.Controllers;
 
-namespace WebApi.Tests.Controllers
+namespace Lovesha.WebApi.Tests.Controllers
 {
     [TestClass]
     public class HomeControllerTest

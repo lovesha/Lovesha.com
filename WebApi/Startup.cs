@@ -1,6 +1,7 @@
-﻿using Owin;
+﻿using Microsoft.Owin;
+using Owin;
 
-namespace WebApi
+namespace Lovesha.WebApi
 {
     public partial class Startup
     {

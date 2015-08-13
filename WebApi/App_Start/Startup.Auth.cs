@@ -7,7 +7,7 @@ using Microsoft.Owin.Security;
 using Microsoft.Owin.Security.ActiveDirectory;
 using Owin;
 
-namespace WebApi
+namespace Lovesha.WebApi
 {
     public partial class Startup
     {

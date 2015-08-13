@@ -1,6 +1,6 @@
 using System;
 
-namespace WebApi.Areas.HelpPage.ModelDescriptions
+namespace Lovesha.WebApi.Areas.HelpPage.ModelDescriptions
 {
     public class ParameterAnnotation
     {
